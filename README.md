@@ -93,6 +93,12 @@ OR
 ```bash  
 alias vim='vim -u ~/.krc'
 ```
+
+And then run:
+```bash
+source .bashrc
+```
+
 So esay! :)
 
 
