@@ -8,8 +8,8 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                   User-definded setting                    "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:krc_author = "kehr"
-let g:krc_email = "kehr.china@gmail.com"
+let g:krc_author = "shaozengguang"
+let g:krc_email = "shaozg1101@126.com"
 let g:krc_copyright = "GPL 2.0"
 " your file description when you create a new file.
 let g:krc_description = ""
